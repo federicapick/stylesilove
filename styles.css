@@ -1,0 +1,182 @@
+/*Universal styles*/
+html {
+    color:#472D30;
+    background-color:#fff;
+    font-family: 'Segoe UI';
+    margin: 5%;
+}
+
+header {
+    background-color:#472D30;
+    color: #fff;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+#TitleDescription {
+    text-align: center;
+    font-family: 'Yeseva One';
+    background-color: #472D30;
+    color:#fff;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Yeseva One';
+    color:#723D46;
+}
+
+div {
+    margin: 5px;
+}
+
+footer {
+    text-align: center;
+}
+
+/*Colors section*/
+.colors {
+    border: 2px solid #472D30;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    width: 100%;
+    position:relative;
+    text-align: center;
+    color: #fff;
+}
+
+.SectionTitle {
+    color: #E26D5C;
+}
+
+.ColorBlockSage {
+    background-color: #C9CBA3;
+    display: inline-block;
+    height: 100px;
+    width:150px;
+    padding-top: 15px;
+}
+
+.ColorBlockPeach {
+    background-color: #FFE1A8;
+    display: inline-block;
+    height: 100px;
+    width:150px;
+    padding-top: 15px;
+    color:#472D30;
+}
+
+.ColorBlockTerraCotta {
+    background-color: #E26D5C;
+    display: inline-block;
+    height: 100px;
+    width:150px;
+    padding-top: 15px;
+}
+
+.ColorBlockCatawba {
+    background-color: #723D46;
+    display: inline-block;
+    height: 100px;
+    width:150px;
+    padding-top: 15px;
+}
+
+.ColorBlockOldBurgundy {
+    background-color: #472D30;
+    display: inline-block;
+    height: 100px;
+    width:150px;
+    padding-top: 15px;
+}
+
+/*Fonts Section*/
+.fonts {
+    border: 2px solid #472D30;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    width: 100%;
+    position:relative;
+    text-align: left;
+}
+
+.FontName {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.FontOne {
+    font-family: 'Cutive Mono', monospace;
+}
+
+.FontTwo {
+    font-family: 'Yeseva One', cursive;
+}
+
+.FontThree {
+    font-family: 'Mukta', sans-serif;
+}
+
+/*Styles Section*/
+.styles {
+    border: 2px solid #472D30;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    width:100%;
+    position:relative;
+    text-align: left;
+}
+
+.StyleOne {
+    font-family: 'Yeseva One', cursive;
+    font-weight: 400px;
+    font-style: inherit;
+    font-size: 30px;
+    text-align: left;
+}
+
+.StyleTwo {
+    font-family: 'Mukta', sans-serif;
+    font-weight: lighter;
+    font-style: inherit;
+    font-size: 18px;
+}
+
+.StyleThree {
+    font-family: 'Cutive Mono', monospace;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+/*Footer*/
+#email {
+    color:#fff;
+    background-color: #472D30;
+    text-decoration: underline;
+    font-size:25px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+a {
+    color: #fff;
+    font-family: 'Cutive Mono', monospace;
+}
+
+#email:hover {
+    color: #472D30;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #472D30;
+}
